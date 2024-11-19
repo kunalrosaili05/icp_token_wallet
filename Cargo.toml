@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "src/wallet_project_backend"
+    "src/wallet_project_backend",
+    # any other project members can be listed here
 ]
-resolver = "2"

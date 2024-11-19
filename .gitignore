@@ -7,19 +7,19 @@
 .DS_Store
 **/.DS_Store
 
-# dfx temporary files
-.dfx/
+# dfx temporary files (commented out to track them)
+#.dfx/
 
-# generated files
-**/declarations/
+# generated files (commented out to track them)
+#**/declarations/
 
-# rust
-target/
+# rust (optional: you can track `target/` if needed, but it’s usually better not to)
+#target/
 
 # frontend code
 node_modules/
 dist/
 .svelte-kit/
 
-# environment variables
+# environment variables (optional: only track `.env` if you’re comfortable with that)
 .env

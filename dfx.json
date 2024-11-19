@@ -10,7 +10,7 @@
         "wallet_project_backend"
       ],
       "source": [
-        "src/wallet_project_frontend/assets"
+        "src/wallet_project_frontend"
       ],
       "type": "assets"
     }
